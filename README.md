@@ -14,7 +14,8 @@ La página consta de ciertas especificaciones las cuales son:
 
 | Python |
 |--|
-|![alt text](image.png)|
+|![image](https://github.com/user-attachments/assets/b007d1d6-5479-4049-904c-e9660a0e8d91)|
+
 
 ## Estructura del proyecto
 
