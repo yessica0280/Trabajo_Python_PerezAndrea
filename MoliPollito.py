@@ -145,5 +145,5 @@ elif opc =="2":
         print("2. Actualizar los pedidos")
         print("3. Eliminar pedidos")
         print("4. Eliminar categoria") 
-        print("5. Salir del programa")
+        print("5. Salir del programa:")
         x=int(input("Por favor elije una de las opciones: "))
